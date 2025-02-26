@@ -2,12 +2,6 @@
 
 > A spreadsheet editing app build using Reactjs.
 
-## Screenshot:
-
-<b>[Experience it Live](https://main--comforting-biscotti-e87a56.netlify.app)</b>
-
-<img src="./public/screenshot.png" alt="image-app"/>
-
 ## Features:
 
 1. Editing cells.
@@ -48,5 +42,7 @@
   - Some tricks involving opacity set to 0, to hide a component but make sure it's clickable etc were used to display icons for color changing.
 - Using infix to postfix conversion and postfix evaluation to parse and evaluate the formula.
 - DFS Cycle detection was used to detect if some formula is recursive in nature or not.
-
-> Overall a good learning project.
+###How to strat
+```
+npm start
+```
